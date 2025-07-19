@@ -4,6 +4,9 @@ An external **aim‑assist overlay** for Rematch, using OpenCV to detect teammat
 
 **This is for proof of concept only, using this in matchmaking makes you a noob loser who may get banned**
 
+<img width="1507" height="1160" alt="image" src="https://github.com/user-attachments/assets/d228a255-f009-4c7d-929e-51db4fee8f17" />
+
+
 ## Features
 
 - Real‑time capture and processing of the Rematch minimap  
@@ -15,7 +18,8 @@ An external **aim‑assist overlay** for Rematch, using OpenCV to detect teammat
 
 - **Windows 10/11** (64‑bit)  
 - **Python 3.8+**  
-- **Microsoft PowerToys** (for “Always on Top” window pinning)  
+- **Microsoft PowerToys** (for “Always on Top” window pinning)
+   - Not fully required but any clicking on the REMATCH window will make the overlay go behind the REMATCH window if you do not pin the window   
 - Python packages listed in `requirements.txt`
 
 ## Installation
