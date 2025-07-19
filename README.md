@@ -44,3 +44,4 @@ An external **aim‑assist overlay** for Rematch, using OpenCV to detect teammat
 ## Configuration
 
 - Modify the X, Y coordinates in ScreenCap.py to reposition the overlay window.
+- Modify upper and lower hsv variables to fit your team color **(Microsoft PowerToys actually has a color picker macro to find this quite easily: Windows Key + Shift + C)**
